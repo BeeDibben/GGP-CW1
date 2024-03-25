@@ -1,4 +1,4 @@
-#Coursewokr 1
+# Coursework 1
 
 Demo for upcoming coursework project.
 
